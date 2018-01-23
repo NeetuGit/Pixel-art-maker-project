@@ -1,13 +1,9 @@
 # Pixel Art Maker Project
 
-## Table of Contents
+## How does it works
 
-* [Instructions](#instructions)
-* [Contributing](#contributing)
-
-## Instructions
-
-To get started, open `designs.js` and start building out the app's functionality.
+To get started, click [here]( https://neetugit.github.io/Pixer-art-maker-project/). Input the value for number of rows and columns.
+Choose a color from color picker to fill the pixels.
 
 For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
 
